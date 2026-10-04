@@ -1,8 +1,6 @@
-import { PolyMod, MixinType } from "https://cdn.polymodloader.com/cb/PolyTrackMods/PolyModLoader/0.6.3/PolyTypes.js";
-class BlenderExporter extends PolyMod {
-  preInit = () => {
-    console.log("hello from blender");
-  }
+import { PolyMod } from "https://cdn.polymodloader.com/cb/PolyTrackMods/PolyModLoader/0.6.3/PolyTypes.js";
+class TAS extends PolyMod {
+    
 }
 
-export let polyMod = new BlenderExporter();
+export let polyMod = new TAS();
