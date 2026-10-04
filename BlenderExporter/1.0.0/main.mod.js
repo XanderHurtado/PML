@@ -1,6 +1,6 @@
 import { PolyMod } from "https://cdn.polymodloader.com/cb/PolyTrackMods/PolyModLoader/0.6.3/PolyTypes.js";
-class BlenderExporter extends PolyMod {
+class MOD extends PolyMod {
     
 }
 
-export let polyMod = new BlenderExporter();
+export let polyMod = new MOD();
