@@ -6,7 +6,7 @@ class MOD extends PolyMod {
             tokenStart:"V.maxViewDistance = ",
             tokenEnd:"));\n            const H = V;",
             func:'300'
-        }
+        })
     });
 }
 
